@@ -1,0 +1,827 @@
+{
+ "_note": "Pronunciation lines are approximate English-style respellings for orientation. They do not show tones. Use the audio only as a hint: device voices are not native speakers.",
+ "situations": [
+  {
+   "id": "lecturer",
+   "t": {
+    "en": "Meeting a lecturer",
+    "vi": "Gặp giảng viên",
+    "zh": "见老师",
+    "ko": "교수님 만나기",
+    "ja": "先生に会う"
+   }
+  },
+  {
+   "id": "office",
+   "t": {
+    "en": "Administrative office",
+    "vi": "Phòng hành chính",
+    "zh": "行政办公室",
+    "ko": "행정 사무실",
+    "ja": "事務室"
+   }
+  },
+  {
+   "id": "senior",
+   "t": {
+    "en": "Senior students",
+    "vi": "Sinh viên khóa trên",
+    "zh": "学长学姐",
+    "ko": "선배",
+    "ja": "先輩"
+   }
+  },
+  {
+   "id": "classmate",
+   "t": {
+    "en": "Classmates",
+    "vi": "Bạn cùng lớp",
+    "zh": "同学",
+    "ko": "동기",
+    "ja": "クラスメート"
+   }
+  },
+  {
+   "id": "food",
+   "t": {
+    "en": "Food and drink",
+    "vi": "Ăn uống",
+    "zh": "饮食",
+    "ko": "음식",
+    "ja": "飲食"
+   }
+  },
+  {
+   "id": "market",
+   "t": {
+    "en": "Shopping and markets",
+    "vi": "Mua sắm, chợ",
+    "zh": "购物与市场",
+    "ko": "쇼핑과 시장",
+    "ja": "買い物・市場"
+   }
+  },
+  {
+   "id": "bus",
+   "t": {
+    "en": "Bus",
+    "vi": "Xe buýt",
+    "zh": "公交车",
+    "ko": "버스",
+    "ja": "バス"
+   }
+  },
+  {
+   "id": "taxi",
+   "t": {
+    "en": "Taxi and ride apps",
+    "vi": "Taxi, xe công nghệ",
+    "zh": "出租车与打车",
+    "ko": "택시",
+    "ja": "タクシー"
+   }
+  },
+  {
+   "id": "directions",
+   "t": {
+    "en": "Asking directions",
+    "vi": "Hỏi đường",
+    "zh": "问路",
+    "ko": "길 묻기",
+    "ja": "道を尋ねる"
+   }
+  },
+  {
+   "id": "pharmacy",
+   "t": {
+    "en": "Pharmacy",
+    "vi": "Mua thuốc",
+    "zh": "药店",
+    "ko": "약국",
+    "ja": "薬局"
+   }
+  },
+  {
+   "id": "hospital",
+   "t": {
+    "en": "Hospital",
+    "vi": "Bệnh viện",
+    "zh": "医院",
+    "ko": "병원",
+    "ja": "病院"
+   }
+  },
+  {
+   "id": "emergency",
+   "t": {
+    "en": "Emergency",
+    "vi": "Khẩn cấp",
+    "zh": "紧急情况",
+    "ko": "긴급 상황",
+    "ja": "緊急"
+   }
+  }
+ ],
+ "phrases": [
+  {
+   "id": "l1",
+   "sit": "lecturer",
+   "vi": "Em chào thầy/cô ạ.",
+   "rom": "em chow tay / koh ah",
+   "lvl": "formal",
+   "tr": {
+    "en": "Hello, teacher.",
+    "zh": "老师好。",
+    "ko": "안녕하세요, 선생님.",
+    "ja": "先生、こんにちは。"
+   },
+   "note": "Use thầy for a male lecturer and cô for a female lecturer."
+  },
+  {
+   "id": "l2",
+   "sit": "lecturer",
+   "vi": "Thưa thầy/cô, em xin phép hỏi một câu ạ.",
+   "rom": "tuh-ah tay / koh, em sin fep hoy mot kau ah",
+   "lvl": "formal",
+   "tr": {
+    "en": "Excuse me, may I ask a question?",
+    "zh": "老师，请问我可以问一个问题吗？",
+    "ko": "선생님, 질문 하나 해도 될까요?",
+    "ja": "先生、質問してもよろしいでしょうか。"
+   },
+   "note": ""
+  },
+  {
+   "id": "l3",
+   "sit": "lecturer",
+   "vi": "Thầy/cô có thể nói chậm hơn được không ạ?",
+   "rom": "tay / koh kaw teh noy chum hern duh-uck kohm ah",
+   "lvl": "formal",
+   "tr": {
+    "en": "Could you speak more slowly, please?",
+    "zh": "老师，您可以说慢一点吗？",
+    "ko": "선생님, 조금 천천히 말씀해 주실 수 있나요?",
+    "ja": "先生、もう少しゆっくり話していただけますか。"
+   },
+   "note": ""
+  },
+  {
+   "id": "l4",
+   "sit": "lecturer",
+   "vi": "Em xin phép vào lớp ạ.",
+   "rom": "em sin fep vow lerp ah",
+   "lvl": "formal",
+   "tr": {
+    "en": "May I come in? (when late)",
+    "zh": "老师，我可以进教室吗？（迟到时）",
+    "ko": "들어가도 될까요? (수업에 늦었을 때)",
+    "ja": "教室に入ってもよろしいですか。（遅刻したとき）"
+   },
+   "note": "Knock first and wait for a nod."
+  },
+  {
+   "id": "l5",
+   "sit": "lecturer",
+   "vi": "Em xin phép nghỉ buổi học hôm nay ạ.",
+   "rom": "em sin fep nghee bwoy hock hom nay ah",
+   "lvl": "formal",
+   "tr": {
+    "en": "May I ask to miss today's class?",
+    "zh": "我想请今天的课假。",
+    "ko": "오늘 수업에 빠져도 될지 허락을 구합니다.",
+    "ja": "本日の授業をお休みしたいのですが。"
+   },
+   "note": "Say it before class if you can."
+  },
+  {
+   "id": "l6",
+   "sit": "lecturer",
+   "vi": "Em cảm ơn thầy/cô ạ.",
+   "rom": "em gam ern tay / koh ah",
+   "lvl": "formal",
+   "tr": {
+    "en": "Thank you, teacher.",
+    "zh": "谢谢老师。",
+    "ko": "감사합니다, 선생님.",
+    "ja": "先生、ありがとうございます。"
+   },
+   "note": ""
+  },
+  {
+   "id": "o1",
+   "sit": "office",
+   "vi": "Em muốn hỏi về thủ tục … ạ.",
+   "rom": "em mwon hoy veh too took … ah",
+   "lvl": "formal",
+   "tr": {
+    "en": "I would like to ask about the procedure for …",
+    "zh": "我想咨询关于……的手续。",
+    "ko": "…절차에 대해 문의하고 싶습니다.",
+    "ja": "…の手続きについて伺いたいのですが。"
+   },
+   "note": "Fill in the topic, e.g. visa, student card."
+  },
+  {
+   "id": "o2",
+   "sit": "office",
+   "vi": "Em là sinh viên quốc tế. Mã số sinh viên của em là …",
+   "rom": "em lah sinh vee-en kwok teh. mah so sinh vee-en kwa em lah …",
+   "lvl": "formal",
+   "tr": {
+    "en": "I am an international student. My student ID is …",
+    "zh": "我是留学生，我的学号是……",
+    "ko": "저는 유학생입니다. 제 학번은 …입니다.",
+    "ja": "留学生です。学籍番号は…です。"
+   },
+   "note": ""
+  },
+  {
+   "id": "o3",
+   "sit": "office",
+   "vi": "Em cần nộp giấy tờ gì ạ?",
+   "rom": "em kun nop zay tuh zee ah",
+   "lvl": "formal",
+   "tr": {
+    "en": "Which documents do I need to submit?",
+    "zh": "我需要提交哪些材料？",
+    "ko": "어떤 서류를 제출해야 하나요?",
+    "ja": "どの書類を提出すればよいですか。"
+   },
+   "note": ""
+  },
+  {
+   "id": "o4",
+   "sit": "office",
+   "vi": "Khi nào em có thể nhận kết quả ạ?",
+   "rom": "kee now em kaw teh nyun ket kwa ah",
+   "lvl": "formal",
+   "tr": {
+    "en": "When can I get the result?",
+    "zh": "我什么时候可以拿到结果？",
+    "ko": "결과는 언제 받을 수 있나요?",
+    "ja": "結果はいつ受け取れますか。"
+   },
+   "note": ""
+  },
+  {
+   "id": "o5",
+   "sit": "office",
+   "vi": "Anh/chị viết ra giúp em được không ạ?",
+   "rom": "ang / chee vee-et zah zoop em duh-uck kohm ah",
+   "lvl": "formal",
+   "tr": {
+    "en": "Could you write it down for me, please?",
+    "zh": "能请您写下来吗？",
+    "ko": "적어 주실 수 있나요?",
+    "ja": "書いていただけますか。"
+   },
+   "note": "Writing helps when you cannot follow the speech."
+  },
+  {
+   "id": "s1",
+   "sit": "senior",
+   "vi": "Anh/chị ơi, cho em hỏi phòng này ở đâu ạ?",
+   "rom": "ang / chee er-ee, chaw em hoy fohm nai er dow ah",
+   "lvl": "neutral",
+   "tr": {
+    "en": "Excuse me, where is this room?",
+    "zh": "请问，这个教室在哪里？",
+    "ko": "실례합니다, 이 강의실은 어디인가요?",
+    "ja": "すみません、この教室はどこですか。"
+   },
+   "note": "Show the room code on your phone."
+  },
+  {
+   "id": "s2",
+   "sit": "senior",
+   "vi": "Em là sinh viên năm nhất.",
+   "rom": "em lah sinh vee-en num nyut",
+   "lvl": "neutral",
+   "tr": {
+    "en": "I am a first-year student.",
+    "zh": "我是大一学生。",
+    "ko": "저는 1학년입니다.",
+    "ja": "1年生です。"
+   },
+   "note": ""
+  },
+  {
+   "id": "s3",
+   "sit": "senior",
+   "vi": "Anh/chị có thể chỉ em cách làm không ạ?",
+   "rom": "ang / chee kaw teh chee em kak lam kohm ah",
+   "lvl": "neutral",
+   "tr": {
+    "en": "Could you show me how to do it?",
+    "zh": "您可以教我怎么做吗？",
+    "ko": "어떻게 하는지 알려 주실 수 있나요?",
+    "ja": "やり方を教えていただけますか。"
+   },
+   "note": ""
+  },
+  {
+   "id": "c1",
+   "sit": "classmate",
+   "vi": "Chào bạn, mình là … Rất vui được gặp bạn.",
+   "rom": "chow ban, meen lah … zut voo-ee duh-uck gap ban",
+   "lvl": "casual",
+   "tr": {
+    "en": "Hi, I'm … Nice to meet you.",
+    "zh": "你好，我是……很高兴认识你。",
+    "ko": "안녕, 나는 …야. 만나서 반가워.",
+    "ja": "こんにちは、…です。はじめまして。"
+   },
+   "note": "Same-age classmates usually use bạn and mình."
+  },
+  {
+   "id": "c2",
+   "sit": "classmate",
+   "vi": "Bạn giải thích lại giúp mình được không?",
+   "rom": "ban zai tick lai zoop meen duh-uck kohm",
+   "lvl": "casual",
+   "tr": {
+    "en": "Could you explain that again?",
+    "zh": "你能再解释一遍吗？",
+    "ko": "다시 설명해 줄 수 있어?",
+    "ja": "もう一度説明してくれる？"
+   },
+   "note": ""
+  },
+  {
+   "id": "c3",
+   "sit": "classmate",
+   "vi": "Mình ngồi đây được không?",
+   "rom": "meen ngoy day duh-uck kohm",
+   "lvl": "casual",
+   "tr": {
+    "en": "May I sit here?",
+    "zh": "我可以坐这里吗？",
+    "ko": "여기 앉아도 돼?",
+    "ja": "ここに座ってもいい？"
+   },
+   "note": ""
+  },
+  {
+   "id": "c4",
+   "sit": "classmate",
+   "vi": "Mình làm nhóm nhé?",
+   "rom": "meen lam nyom nyeh",
+   "lvl": "casual",
+   "tr": {
+    "en": "Shall we work as a group?",
+    "zh": "我们一起组队吧？",
+    "ko": "같이 팀으로 할까?",
+    "ja": "一緒にグループで やる？"
+   },
+   "note": ""
+  },
+  {
+   "id": "f1",
+   "sit": "food",
+   "vi": "Cho em một phần cơm gà.",
+   "rom": "chaw em mot fun kum gah",
+   "lvl": "neutral",
+   "tr": {
+    "en": "One chicken rice, please.",
+    "zh": "请给我一份鸡肉饭。",
+    "ko": "닭고기 덮밥 한 접시 주세요.",
+    "ja": "チキンライスを一つください。"
+   },
+   "note": ""
+  },
+  {
+   "id": "f2",
+   "sit": "food",
+   "vi": "Không cay, em cảm ơn.",
+   "rom": "kohm kai, em gam ern",
+   "lvl": "neutral",
+   "tr": {
+    "en": "Not spicy, thank you.",
+    "zh": "不要辣，谢谢。",
+    "ko": "맵지 않게 해 주세요, 감사합니다.",
+    "ja": "辛くしないでください、ありがとう。"
+   },
+   "note": "Say it before they add chilli."
+  },
+  {
+   "id": "f3",
+   "sit": "food",
+   "vi": "Em bị dị ứng với lạc.",
+   "rom": "em bee zee ung vuh lak",
+   "lvl": "neutral",
+   "tr": {
+    "en": "I am allergic to peanuts.",
+    "zh": "我对花生过敏。",
+    "ko": "저는 땅콩 알레르기가 있어요.",
+    "ja": "ピーナッツアレルギーがあります。"
+   },
+   "note": "In Hanoi peanuts are 'lạc'; in the south 'đậu phộng'. Show this sentence to the cook."
+  },
+  {
+   "id": "f4",
+   "sit": "food",
+   "vi": "Em ăn chay.",
+   "rom": "em an chai",
+   "lvl": "neutral",
+   "tr": {
+    "en": "I am vegetarian.",
+    "zh": "我吃素。",
+    "ko": "저는 채식을 해요.",
+    "ja": "ベジタリアンです。"
+   },
+   "note": "Ask whether broth or fish sauce is used."
+  },
+  {
+   "id": "f5",
+   "sit": "food",
+   "vi": "Tính tiền giúp em ạ.",
+   "rom": "ting tee-en zoop em ah",
+   "lvl": "neutral",
+   "tr": {
+    "en": "The bill, please.",
+    "zh": "请结账。",
+    "ko": "계산해 주세요.",
+    "ja": "お会計をお願いします。"
+   },
+   "note": ""
+  },
+  {
+   "id": "f6",
+   "sit": "food",
+   "vi": "Cho em xin nước lọc ạ.",
+   "rom": "chaw em sin nuh-uck lock ah",
+   "lvl": "neutral",
+   "tr": {
+    "en": "Could I have drinking water?",
+    "zh": "请给我一杯水。",
+    "ko": "물 좀 주세요.",
+    "ja": "お水をください。"
+   },
+   "note": ""
+  },
+  {
+   "id": "m1",
+   "sit": "market",
+   "vi": "Bao nhiêu tiền ạ?",
+   "rom": "bow nyew tee-en ah",
+   "lvl": "neutral",
+   "tr": {
+    "en": "How much is it?",
+    "zh": "多少钱？",
+    "ko": "얼마예요?",
+    "ja": "いくらですか。"
+   },
+   "note": ""
+  },
+  {
+   "id": "m2",
+   "sit": "market",
+   "vi": "Đắt quá, bớt cho em được không ạ?",
+   "rom": "dat kwah, bert chaw em duh-uck kohm ah",
+   "lvl": "neutral",
+   "tr": {
+    "en": "That is too expensive. Could you lower the price?",
+    "zh": "太贵了，可以便宜一点吗？",
+    "ko": "너무 비싸요. 좀 깎아 주실 수 있나요?",
+    "ja": "高すぎます。少し安くなりませんか。"
+   },
+   "note": "Bargain only at markets and street stalls."
+  },
+  {
+   "id": "m3",
+   "sit": "market",
+   "vi": "Em lấy cái này.",
+   "rom": "em lay kai nai",
+   "lvl": "neutral",
+   "tr": {
+    "en": "I'll take this one.",
+    "zh": "我要这个。",
+    "ko": "이걸로 할게요.",
+    "ja": "これをください。"
+   },
+   "note": ""
+  },
+  {
+   "id": "m4",
+   "sit": "market",
+   "vi": "Em trả bằng chuyển khoản được không ạ?",
+   "rom": "em chah bung chwee-en kwan duh-uck kohm ah",
+   "lvl": "neutral",
+   "tr": {
+    "en": "Can I pay by bank transfer / QR?",
+    "zh": "可以转账（扫码）支付吗？",
+    "ko": "계좌이체(QR)로 결제해도 되나요?",
+    "ja": "振込（QR）で支払えますか。"
+   },
+   "note": ""
+  },
+  {
+   "id": "m5",
+   "sit": "market",
+   "vi": "Cho em một cân.",
+   "rom": "chaw em mot kun",
+   "lvl": "neutral",
+   "tr": {
+    "en": "One kilogram, please.",
+    "zh": "请给我一公斤。",
+    "ko": "1킬로 주세요.",
+    "ja": "1キロください。"
+   },
+   "note": "Markets weigh in cân (kg) and lạng (100 g)."
+  },
+  {
+   "id": "b1",
+   "sit": "bus",
+   "vi": "Xe này có đi qua … không ạ?",
+   "rom": "seh nai kaw dee kwah … kohm ah",
+   "lvl": "neutral",
+   "tr": {
+    "en": "Does this bus pass …?",
+    "zh": "这辆车经过……吗？",
+    "ko": "이 버스는 …를 지나가나요?",
+    "ja": "このバスは…を通りますか。"
+   },
+   "note": ""
+  },
+  {
+   "id": "b2",
+   "sit": "bus",
+   "vi": "Cho em xuống ở điểm dừng tiếp theo ạ.",
+   "rom": "chaw em swong er dee-em zung tee-ep teh-ow ah",
+   "lvl": "neutral",
+   "tr": {
+    "en": "Please let me off at the next stop.",
+    "zh": "请在下一站让我下车。",
+    "ko": "다음 정류장에서 내려 주세요.",
+    "ja": "次の停留所で降ろしてください。"
+   },
+   "note": ""
+  },
+  {
+   "id": "b3",
+   "sit": "bus",
+   "vi": "Vé bao nhiêu tiền ạ?",
+   "rom": "veh bow nyew tee-en ah",
+   "lvl": "neutral",
+   "tr": {
+    "en": "How much is the ticket?",
+    "zh": "车票多少钱？",
+    "ko": "표는 얼마예요?",
+    "ja": "切符はいくらですか。"
+   },
+   "note": ""
+  },
+  {
+   "id": "t1",
+   "sit": "taxi",
+   "vi": "Cho em đến … ạ.",
+   "rom": "chaw em den … ah",
+   "lvl": "neutral",
+   "tr": {
+    "en": "Please take me to …",
+    "zh": "请带我去……",
+    "ko": "…까지 가 주세요.",
+    "ja": "…までお願いします。"
+   },
+   "note": "Show the address on your phone."
+  },
+  {
+   "id": "t2",
+   "sit": "taxi",
+   "vi": "Anh/chị dừng ở đây giúp em ạ.",
+   "rom": "ang / chee zung er day zoop em ah",
+   "lvl": "neutral",
+   "tr": {
+    "en": "Please stop here.",
+    "zh": "请在这里停车。",
+    "ko": "여기서 세워 주세요.",
+    "ja": "ここで止めてください。"
+   },
+   "note": ""
+  },
+  {
+   "id": "d1",
+   "sit": "directions",
+   "vi": "Em đang bị lạc. Anh/chị chỉ đường giúp em được không ạ?",
+   "rom": "em dang bee lak. ang / chee chee duong zoop em duh-uck kohm ah",
+   "lvl": "neutral",
+   "tr": {
+    "en": "I am lost. Could you show me the way?",
+    "zh": "我迷路了，可以给我指路吗？",
+    "ko": "길을 잃었어요. 길을 알려 주실 수 있나요?",
+    "ja": "道に迷いました。道を教えていただけますか。"
+   },
+   "note": ""
+  },
+  {
+   "id": "d2",
+   "sit": "directions",
+   "vi": "Đi thẳng, rẽ trái/phải.",
+   "rom": "dee tang, zeh chai / fai",
+   "lvl": "neutral",
+   "tr": {
+    "en": "Go straight, turn left / right. (what you will hear)",
+    "zh": "直走，左转/右转。（你会听到的话）",
+    "ko": "직진하고 좌회전/우회전하세요. (듣게 될 말)",
+    "ja": "まっすぐ行って左/右に曲がります。（聞くことになる言葉）"
+   },
+   "note": ""
+  },
+  {
+   "id": "d3",
+   "sit": "directions",
+   "vi": "Gần đây có … không ạ?",
+   "rom": "gun day kaw … kohm ah",
+   "lvl": "neutral",
+   "tr": {
+    "en": "Is there a … nearby?",
+    "zh": "附近有……吗？",
+    "ko": "근처에 …가 있나요?",
+    "ja": "この近くに…はありますか。"
+   },
+   "note": ""
+  },
+  {
+   "id": "p1",
+   "sit": "pharmacy",
+   "vi": "Em bị đau đầu. Cho em mua thuốc giảm đau.",
+   "rom": "em bee dow dow. chaw em mwah twok zam dow",
+   "lvl": "neutral",
+   "tr": {
+    "en": "I have a headache. I'd like a painkiller.",
+    "zh": "我头疼，想买止痛药。",
+    "ko": "머리가 아파요. 진통제를 사고 싶어요.",
+    "ja": "頭が痛いです。痛み止めをください。"
+   },
+   "note": "Tell the pharmacist about allergies and other medicines."
+  },
+  {
+   "id": "p2",
+   "sit": "pharmacy",
+   "vi": "Em bị dị ứng với thuốc …",
+   "rom": "em bee zee ung vuh twok …",
+   "lvl": "neutral",
+   "tr": {
+    "en": "I am allergic to the medicine …",
+    "zh": "我对……药物过敏。",
+    "ko": "저는 …약에 알레르기가 있어요.",
+    "ja": "…という薬にアレルギーがあります。"
+   },
+   "note": ""
+  },
+  {
+   "id": "p3",
+   "sit": "pharmacy",
+   "vi": "Thuốc này uống như thế nào ạ?",
+   "rom": "twok nai wong nyuh teh now ah",
+   "lvl": "neutral",
+   "tr": {
+    "en": "How do I take this medicine?",
+    "zh": "这个药怎么吃？",
+    "ko": "이 약은 어떻게 먹나요?",
+    "ja": "この薬はどう飲みますか。"
+   },
+   "note": ""
+  },
+  {
+   "id": "h1",
+   "sit": "hospital",
+   "vi": "Em cần gặp bác sĩ.",
+   "rom": "em kun gap bak see",
+   "lvl": "neutral",
+   "tr": {
+    "en": "I need to see a doctor.",
+    "zh": "我需要看医生。",
+    "ko": "의사를 만나야 해요.",
+    "ja": "医者に診てもらいたいです。"
+   },
+   "note": ""
+  },
+  {
+   "id": "h2",
+   "sit": "hospital",
+   "vi": "Em bị sốt và ho.",
+   "rom": "em bee sot vah haw",
+   "lvl": "neutral",
+   "tr": {
+    "en": "I have a fever and a cough.",
+    "zh": "我发烧、咳嗽。",
+    "ko": "열이 나고 기침을 해요.",
+    "ja": "熱と咳があります。"
+   },
+   "note": ""
+  },
+  {
+   "id": "h3",
+   "sit": "hospital",
+   "vi": "Em có bảo hiểm y tế.",
+   "rom": "em kaw bow hee-em ee teh",
+   "lvl": "neutral",
+   "tr": {
+    "en": "I have health insurance.",
+    "zh": "我有医疗保险。",
+    "ko": "저는 건강보험이 있어요.",
+    "ja": "医療保険に加入しています。"
+   },
+   "note": ""
+  },
+  {
+   "id": "h4",
+   "sit": "hospital",
+   "vi": "Em bị đau ở đây.",
+   "rom": "em bee dow er day",
+   "lvl": "neutral",
+   "tr": {
+    "en": "It hurts here.",
+    "zh": "这里疼。",
+    "ko": "여기가 아파요.",
+    "ja": "ここが痛いです。"
+   },
+   "note": "Point to the place."
+  },
+  {
+   "id": "e1",
+   "sit": "emergency",
+   "vi": "Cứu em với!",
+   "rom": "kuh-oo em vur-ee",
+   "lvl": "emergency",
+   "tr": {
+    "en": "Help me!",
+    "zh": "救命！",
+    "ko": "도와주세요!",
+    "ja": "助けて！"
+   },
+   "note": ""
+  },
+  {
+   "id": "e2",
+   "sit": "emergency",
+   "vi": "Làm ơn gọi cấp cứu!",
+   "rom": "lam ern goy kup kuh-oo",
+   "lvl": "emergency",
+   "tr": {
+    "en": "Please call an ambulance!",
+    "zh": "请叫救护车！",
+    "ko": "구급차를 불러 주세요!",
+    "ja": "救急車を呼んでください！"
+   },
+   "note": "The ambulance number in Vietnam is 115."
+  },
+  {
+   "id": "e3",
+   "sit": "emergency",
+   "vi": "Làm ơn gọi công an!",
+   "rom": "lam ern goy kong an",
+   "lvl": "emergency",
+   "tr": {
+    "en": "Please call the police!",
+    "zh": "请报警！",
+    "ko": "경찰을 불러 주세요!",
+    "ja": "警察を呼んでください！"
+   },
+   "note": "The police number in Vietnam is 113."
+  },
+  {
+   "id": "e4",
+   "sit": "emergency",
+   "vi": "Em bị mất hộ chiếu.",
+   "rom": "em bee mut ho chee-eo",
+   "lvl": "emergency",
+   "tr": {
+    "en": "I lost my passport.",
+    "zh": "我的护照丢了。",
+    "ko": "여권을 잃어버렸어요.",
+    "ja": "パスポートをなくしました。"
+   },
+   "note": ""
+  },
+  {
+   "id": "e5",
+   "sit": "emergency",
+   "vi": "Có cháy! Mọi người ra ngoài!",
+   "rom": "kaw chay! moy nguh-ee zah ngwai",
+   "lvl": "emergency",
+   "tr": {
+    "en": "Fire! Everyone get out!",
+    "zh": "着火了！大家出去！",
+    "ko": "불이야! 모두 밖으로 나가세요!",
+    "ja": "火事です！みんな外に出て！"
+   },
+   "note": "The fire number in Vietnam is 114."
+  },
+  {
+   "id": "e6",
+   "sit": "emergency",
+   "vi": "Em không nói được tiếng Việt. Làm ơn tìm người nói tiếng Anh.",
+   "rom": "em kohm noy duh-uck tee-eng vee-et. lam ern teem nguh-ee noy tee-eng ang",
+   "lvl": "emergency",
+   "tr": {
+    "en": "I don't speak Vietnamese. Please find an English speaker.",
+    "zh": "我不会说越南语，请找会说英语的人。",
+    "ko": "베트남어를 못해요. 영어 하는 분을 찾아 주세요.",
+    "ja": "ベトナム語が話せません。英語を話せる人を探してください。"
+   },
+   "note": ""
+  }
+ ]
+}

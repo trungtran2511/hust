@@ -1,0 +1,10 @@
+const assert=require("node:assert"),{test}=require("node:test");
+global.window=global;const D={};global.H={addStrings(l,o){D[l]=Object.assign(D[l]||{},o)}};
+for(const f of ["en","vi","zh","ko","ja"])require("../js/i18n-"+f+".js");
+const keys=require("./keys.js");
+test("every statically used key exists in English",()=>{const miss=keys.filter(k=>!(k in D.en));assert.deepStrictEqual(miss,[]);});
+test("Vietnamese is complete",()=>{assert.deepStrictEqual(Object.keys(D.en).filter(k=>!(k in D.vi)),[]);});
+test("no language has keys that English lacks",()=>{for(const l of["vi","zh","ko","ja"])assert.deepStrictEqual(Object.keys(D[l]).filter(k=>!(k in D.en)),[],l);});
+test("placeholders match English",()=>{const ph=s=>(String(s).match(/\{\w+\}/g)||[]).sort().join();for(const l of["vi","zh","ko","ja"])for(const k in D[l])assert.strictEqual(ph(D[l][k]),ph(D.en[k]),l+":"+k);});
+test("no empty strings",()=>{for(const l in D)for(const k in D[l])assert.ok(String(D[l][k]).trim()||k==="role_",l+":"+k);});
+test("coverage report",()=>{const n=Object.keys(D.en).length;for(const l of["vi","zh","ko","ja"])console.log("  "+l+": "+Object.keys(D[l]).length+"/"+n+" ("+Math.round(Object.keys(D[l]).length/n*100)+"%)");});

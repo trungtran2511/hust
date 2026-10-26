@@ -1,0 +1,39 @@
+{
+ "_note": "General living guidance written for orientation. It is NOT official HUST information. It contains no prices, bus routes, fares or legal advice, because those change and were not verified. Each topic names what to check and with whom.",
+ "topics": [
+  {"id":"food","icon":"food","t":{"en":"Food and shopping","vi":"Ăn uống và mua sắm","zh":"饮食与购物","ko":"음식과 쇼핑","ja":"食事と買い物"},
+   "cards":[
+    {"h":"Ordering","b":["Point at the dish or show a photo; the Phrasebook has ordering sentences with audio.","Say 'không cay' (not spicy) before you pay if you do not eat chilli."]},
+    {"h":"Allergies and diets","b":["Show the sentence 'Em bị dị ứng với …' (I'm allergic to …) in the Phrasebook.","Broth and sauces often contain fish sauce or peanuts. Ask before you order.","Vegetarian: 'em ăn chay'."]},
+    {"h":"Markets and supermarkets","b":["Supermarkets and convenience stores have printed prices. Bargaining happens at open markets and street stalls.","Fruit and vegetables are sold by weight: 1 cân = 1 kg, 1 lạng = 100 g."]},
+    {"h":"Paying","b":["Small shops often take cash and QR bank transfer. Ask 'chuyển khoản được không ạ?'."]}]},
+  {"id":"transport","icon":"bus","t":{"en":"Getting around","vi":"Đi lại","zh":"出行","ko":"교통","ja":"移動"},
+   "cards":[
+    {"h":"Bus","b":["Ask the driver or conductor if the bus goes where you need.","Routes and fares change. Use the operator's official app or an official route map. This app lists no routes."]},
+    {"h":"Ride-hailing and taxis","b":["Use a ride app so the price and route are shown, or a taxi with a meter.","Show the address on your phone in Vietnamese. Check the plate and driver before getting in."]},
+    {"h":"Reading Vietnamese addresses","b":["Typical order: house number, street (đường / phố), ward (phường), city. Alleys are 'ngõ' and 'ngách'. A number like 12/34 means alley 12, house 34.","Local administrative names have changed in recent years, so rely on a map pin plus the street name."]},
+    {"h":"Staying safe in traffic","b":["Walk at a steady pace when crossing. Do not stop suddenly or run: riders steer around predictable movement.","Wear a helmet on any motorbike, including as a passenger. Never ride after drinking."]}]},
+  {"id":"money","icon":"cash","t":{"en":"Money and payments","vi":"Tiền và thanh toán","zh":"货币与支付","ko":"돈과 결제","ja":"お金と支払い"},
+   "cards":[
+    {"h":"Vietnamese đồng (VND)","b":["Banknotes: 1,000 · 2,000 · 5,000 · 10,000 · 20,000 · 50,000 · 100,000 · 200,000 · 500,000. Small notes are the most useful for street food and buses.","Reading prices: '50k' or 'năm mươi' usually means 50,000 đồng. 'nghìn' (or 'ngàn') means thousand, 'triệu' means million.","Several notes look alike. Check the number before you hand it over."]},
+    {"h":"QR and bank transfer","b":["Many shops show a QR code. Check the amount and the account name on your screen before confirming.","Never send money to someone you only met online, and never share OTP codes."]},
+    {"h":"Opening a bank account","b":["Requirements differ between banks and change over time. Ask the bank what a foreign student needs; expect to bring at least your passport.","Ask HUST's international office or OSA whether they recommend a bank for your scholarship payments."]}]},
+  {"id":"phone","icon":"wifi","t":{"en":"Phone and internet","vi":"Điện thoại và Internet","zh":"手机与网络","ko":"휴대폰과 인터넷","ja":"携帯電話とネット"},
+   "cards":[
+    {"h":"Buying a SIM","b":["Buy from a shop of a major carrier (for example Viettel, VinaPhone or MobiFone). Bring your passport.","SIM cards must be registered under your identity details. Do not buy pre-registered SIMs from strangers."]},
+    {"h":"Wi-Fi and privacy","b":["Avoid banking on public Wi-Fi.","Keep your passport number, student portal password and OTP codes private. No HUST office will ask for your password in a chat."]}]},
+  {"id":"housing","icon":"bed","t":{"en":"Housing","vi":"Nhà ở","zh":"住房","ko":"주거","ja":"住まい"},
+   "cards":[
+    {"h":"Dormitory","b":["The Dormitory Management Center is in B9, rooms 101-102 (published on the HUST admissions site). Ask them about rooms, rules and how to apply."]},
+    {"h":"Renting privately","b":["Ask for a written contract and read the deposit, notice period, electricity, water and internet terms before paying.","Take dated photos of the room when you move in.","Your landlord normally helps declare your temporary residence. Ask OSA about the current procedure."]},
+    {"h":"Moving","b":["Tell OSA your new address. Residence declarations must be updated."]}]},
+  {"id":"health","icon":"med","t":{"en":"Health","vi":"Sức khỏe","zh":"健康","ko":"건강","ja":"健康"},
+   "cards":[
+    {"h":"When you are unwell","b":["Mild illness: ask OSA where to go first. Bring your passport and insurance card.","Pharmacies sell many medicines without prescription. Tell the pharmacist your allergies. Use the Pharmacy phrases.","Emergency: call 115 (ambulance)."]},
+    {"h":"Describing symptoms","b":["Use the Hospital phrases: fever (sốt), cough (ho), headache (đau đầu), stomach pain (đau bụng).","Point to the place and say 'đau ở đây'."]}]},
+  {"id":"essentials","icon":"bag","t":{"en":"Daily essentials","vi":"Nhu yếu phẩm","zh":"日常用品","ko":"생활 필수","ja":"日用品"},
+   "cards":[
+    {"h":"Laundry, printing, parcels","b":["Small laundry and print shops are common near student areas. Ask other students in your dormitory or class for the closest one; this app lists no shop because none has been verified.","Parcels: carriers deliver to an address; give your phone number and building."]},
+    {"h":"Books and stationery","b":["Ask your lecturer which book is required before you buy.","The library has textbooks for use in reading rooms."]}]}
+ ]
+}

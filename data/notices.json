@@ -1,0 +1,11 @@
+{
+ "_note": "Headlines copied by hand from the HUST news board (CTSV and ĐTĐH sections) from a screenshot supplied by the project owner. The English line is an informal translation. No dates or amounts are added. Open the official site for the full text.",
+ "items": [
+  {"src":"CTSV","date":"2026-10-15","vi":"Thông báo về việc khen thưởng sinh viên xuất sắc năm học 2025-2026","en":"Notice on awards for outstanding students, academic year 2025-2026"},
+  {"src":"CTSV","date":"2026-10-15","vi":"Thông báo bổ sung thông tin tài khoản ngân hàng để nhận quà tặng nhân dịp kỷ niệm 70 năm thành lập Đại học Bách khoa Hà Nội","en":"Notice to add bank account details to receive a gift for the 70th anniversary of HUST"},
+  {"src":"CTSV","date":"2026-10-06","vi":"Thông báo về việc cập nhật thông tin tài khoản ngân hàng để nhận quà nhân dịp kỷ niệm 70 năm thành lập Đại học Bách khoa Hà Nội","en":"Notice to update bank account details to receive a gift for the 70th anniversary of HUST"},
+  {"src":"ĐTĐH","date":"2026-10-06","vi":"Quyết định mức học phí các chương trình đào tạo đại học chính quy, KSCS, ĐT thường xuyên và Sau đại học năm học 2026-2027","en":"Decision on tuition rates for full-time undergraduate, KSCS, continuing and postgraduate programmes, 2026-2027"},
+  {"src":"ĐTĐH","date":"2026-10-05","vi":"Thông báo về học phí kỳ 1 năm học 2026-2027 (đợt 1 - 20261)","en":"Notice on semester 1 tuition, 2026-2027 (round 1, term 20261)"}
+ ],
+ "srcs": {"CTSV":{"name":"Student Affairs (CTSV)","url":"https://ctsv.hust.edu.vn"},"ĐTĐH":{"name":"Undergraduate Training (ĐTĐH)","url":"https://hust.edu.vn"}}
+}

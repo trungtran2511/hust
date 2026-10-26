@@ -1,0 +1,13 @@
+{
+  "name": "hust-guide",
+  "version": "2.0.0",
+  "description": "HUST International Survival Guide",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node tests/tkb.test.js && node --test tests/i18n.test.js"
+  },
+  "keywords": ["hust", "survival-guide", "pwa"],
+  "author": "",
+  "license": "ISC"
+}

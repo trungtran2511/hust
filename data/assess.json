@@ -1,0 +1,30 @@
+{
+ "_note": "A short self-reflection tool built for this app. It is not a validated psychological or academic measure.",
+ "cats": [
+  {"id":"acad","t":{"en":"Academic readiness","vi":"Sẵn sàng học tập","zh":"学业准备","ko":"학업 준비","ja":"学習の準備"},"go":["academic","plan"],"goLabel":{"en":"Open the Course planner","vi":"Mở Lập kế hoạch học tập","zh":"打开选课规划","ko":"수강 계획 열기","ja":"履修プランを開く"},
+   "qs":[{"en":"I know how to find and plan my classes for this semester.","vi":"Tôi biết cách tìm và lập kế hoạch lớp học kỳ này.","zh":"我知道如何查找并规划本学期的课程。","ko":"이번 학기 수업을 찾고 계획하는 방법을 안다.","ja":"今学期の授業の探し方と計画の立て方が分かる。"},
+         {"en":"I know the difference between planning here and official course registration.","vi":"Tôi biết sự khác nhau giữa lập kế hoạch ở đây và đăng ký học phần chính thức.","zh":"我清楚在这里规划与正式选课的区别。","ko":"여기서의 계획과 공식 수강신청의 차이를 안다.","ja":"ここでの計画と正式な履修登録の違いが分かる。"}],
+   "tips":{"low":["Open the Course planner and add one course to see how groups and clashes work.","Read the Course registration topic in the Handbook."],"mid":["Check clashes in your timetable for every week, not only week 1."],"high":["You are ready. Export your timetable to your calendar once the start date is confirmed."]}},
+  {"id":"campus","t":{"en":"Campus familiarity","vi":"Quen thuộc khuôn viên","zh":"校园熟悉度","ko":"캠퍼스 익숙함","ja":"キャンパスへの慣れ"},"go":["campus","rooms"],"goLabel":{"en":"Open the Room finder","vi":"Mở Tìm phòng học","zh":"打开教室查找","ko":"강의실 찾기 열기","ja":"教室検索を開く"},
+   "qs":[{"en":"I can find the building of my next class on the map.","vi":"Tôi tìm được tòa nhà của lớp học tiếp theo trên bản đồ.","zh":"我能在地图上找到下一节课所在的楼。","ko":"다음 수업 건물을 지도에서 찾을 수 있다.","ja":"次の授業の建物を地図で見つけられる。"},
+         {"en":"I can read a room code such as D3-201.","vi":"Tôi đọc được mã phòng như D3-201.","zh":"我能看懂 D3-201 这样的教室编号。","ko":"D3-201 같은 강의실 코드를 읽을 수 있다.","ja":"D3-201 のような教室コードが読める。"}],
+   "tips":{"low":["Decode the room codes from your timetable in the Room finder.","Walk to each building once before the first class."],"mid":["Save your most-used rooms as favourites."],"high":["You know the campus. Help a new student find a room."]}},
+  {"id":"vi","t":{"en":"Vietnamese communication","vi":"Giao tiếp tiếng Việt","zh":"越南语沟通","ko":"베트남어 소통","ja":"ベトナム語コミュニケーション"},"go":["life","address"],"goLabel":{"en":"Open Forms of address","vi":"Mở Cách xưng hô","zh":"打开称呼指南","ko":"호칭 가이드 열기","ja":"呼称ガイドを開く"},
+   "qs":[{"en":"I know how to greet a lecturer politely.","vi":"Tôi biết chào giảng viên một cách lịch sự.","zh":"我知道如何礼貌地问候老师。","ko":"교수님께 예의 바르게 인사하는 법을 안다.","ja":"先生に丁寧に挨拶する方法が分かる。"},
+         {"en":"I can ask for help or the price of something in Vietnamese.","vi":"Tôi có thể nhờ giúp đỡ hoặc hỏi giá bằng tiếng Việt.","zh":"我能用越南语求助或询价。","ko":"베트남어로 도움을 청하거나 가격을 물을 수 있다.","ja":"ベトナム語で助けを求めたり値段を聞いたりできる。"}],
+   "tips":{"low":["Start with the Forms of address matrix and the 'Meeting a lecturer' phrases.","Mark ten phrases as known in the Phrasebook."],"mid":["Use the daily practice and flashcards for five minutes a day."],"high":["Try the Mini-challenge quiz for a full score."]}},
+  {"id":"daily","t":{"en":"Daily life skills","vi":"Kỹ năng sống hằng ngày","zh":"日常生活能力","ko":"일상 생활 능력","ja":"日常生活スキル"},"go":["life","guide"],"goLabel":{"en":"Open Daily life guide","vi":"Mở Cẩm nang đời sống","zh":"打开生活指南","ko":"생활 가이드 열기","ja":"生活ガイドを開く"},
+   "qs":[{"en":"I can buy food and pay without help.","vi":"Tôi tự mua đồ ăn và thanh toán được.","zh":"我能独立买食物并付款。","ko":"도움 없이 음식을 사고 결제할 수 있다.","ja":"一人で食べ物を買い支払える。"},
+         {"en":"I know how to get around Hanoi by bus or ride app.","vi":"Tôi biết đi lại ở Hà Nội bằng xe buýt hoặc ứng dụng gọi xe.","zh":"我知道如何乘公交或打车软件在河内出行。","ko":"버스나 호출 앱으로 하노이를 이동하는 법을 안다.","ja":"バスや配車アプリでハノイを移動できる。"}],
+   "tips":{"low":["Read Money and payments and Getting around.","Practise the Food and Market phrases."],"mid":["Try one new bus or ride-app trip with a friend."],"high":["Share your tips with new students."]}},
+  {"id":"admin","t":{"en":"Administrative readiness","vi":"Sẵn sàng thủ tục","zh":"手续准备","ko":"행정 준비","ja":"手続きの準備"},"go":["support","checklist"],"goLabel":{"en":"Open First 30 days","vi":"Mở 30 ngày đầu tiên","zh":"打开前30天清单","ko":"첫 30일 열기","ja":"最初の30日を開く"},
+   "qs":[{"en":"I know when my visa expires and who to ask about it.","vi":"Tôi biết khi nào thị thực hết hạn và hỏi ai về việc đó.","zh":"我知道签证何时到期以及该问谁。","ko":"비자 만료일과 문의할 곳을 안다.","ja":"ビザの期限と相談先が分かる。"},
+         {"en":"I know which office to contact for my problems.","vi":"Tôi biết liên hệ phòng ban nào khi gặp vấn đề.","zh":"我知道遇到问题该联系哪个部门。","ko":"문제가 생기면 어느 부서에 연락할지 안다.","ja":"問題があるときどの窓口に連絡すべきか分かる。"}],
+   "tips":{"low":["Open First 30 days and tick off what you have already done.","Use Office finder for your next question."],"mid":["Enter your visa expiry date as a personal reminder."],"high":["Keep your documents up to date and review the checklist monthly."]}},
+  {"id":"safe","t":{"en":"Safety awareness","vi":"Nhận thức an toàn","zh":"安全意识","ko":"안전 인식","ja":"安全意識"},"go":["emergency"],"goLabel":{"en":"Open Emergency Help","vi":"Mở Trợ giúp khẩn cấp","zh":"打开紧急求助","ko":"긴급 도움 열기","ja":"緊急ヘルプを開く"},
+   "qs":[{"en":"I know the national emergency numbers and have saved my own contacts.","vi":"Tôi biết số khẩn cấp quốc gia và đã lưu liên hệ riêng.","zh":"我知道国家紧急电话并保存了自己的联系人。","ko":"국가 긴급 번호를 알고 개인 연락처를 저장했다.","ja":"国の緊急番号を知り、自分の連絡先を保存している。"},
+         {"en":"I know what to do if I lose my passport or student card.","vi":"Tôi biết phải làm gì nếu mất hộ chiếu hoặc thẻ sinh viên.","zh":"我知道丢失护照或学生证该怎么办。","ko":"여권이나 학생증을 잃어버리면 어떻게 할지 안다.","ja":"パスポートや学生証をなくしたときの対処を知っている。"}],
+   "tips":{"low":["Open Emergency Help and add two personal contacts.","Learn the three Emergency phrases."],"mid":["Read Lost passport and Lost student card in Emergency Help."],"high":["You are well prepared."]}}
+ ],
+ "scale": [{"en":"Not yet","vi":"Chưa","zh":"还不会","ko":"아직","ja":"まだ"},{"en":"A little","vi":"Một chút","zh":"一点点","ko":"조금","ja":"少し"},{"en":"Mostly","vi":"Khá tốt","zh":"基本会","ko":"대체로","ja":"だいたい"},{"en":"Confident","vi":"Tự tin","zh":"有信心","ko":"자신 있음","ja":"自信あり"}]
+}
